@@ -17,4 +17,5 @@ mysql: the database used by Nextcloud to store its configuration
 *************************Run******************************
 
 $ docker-compose up -d
+
 You'll need to wait a few minutes on first launch, as there is some certificate generation involved. Then, you should be able to access your Nextcloud instance!
